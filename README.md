@@ -24,17 +24,30 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Praktikum 1: Instalasi Redux dan bootstrap
+![alt text](image-1.png)
 
-To learn more about Next.js, take a look at the following resources:
+![alt text](image-2.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![alt text](image.png)
+![alt text](image-10.png)
+Program is running 
 
-## Deploy on Vercel
+## Praktikum 2: Contoh Login dengan Redux
+![alt text](image-3.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![alt text](image-4.png)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![alt text](image-5.png)
+
+![alt text](image-6.png)
+
+
+![alt text](image-8.png)
+![alt text](image-9.png)
+![alt text](image-7.png)
+
+Run
+
+## Praktikum 3: Membuat Aplikasi Counter Sederhana
